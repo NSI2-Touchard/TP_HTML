@@ -1,0 +1,31 @@
+body, html{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table{
+    text-align: center;
+    column-width: 15px;
+    border-collapse: collapse;
+    background-color: yellow;
+    width: 50%;
+}
+
+table th, table td{
+    border: solid red 2px;
+}
+
+table tr th{
+    font-size: 25px;
+    color: green;
+}
+
+table tr td{
+    color: blue;
+    width: 160px;
+}
